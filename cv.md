@@ -10,5 +10,5 @@
    } while (i < 3);
    ```
 1. **-**
-1. Completed courses at IT-academy in HTML and CSS
-1. English level pre intermediate
+1. Completed courses at _IT-academy_ in HTML and CSS
+1. English level **pre intermediate**
