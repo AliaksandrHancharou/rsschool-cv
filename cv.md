@@ -1,5 +1,5 @@
-1. #Aliaksandr Hancharou
-1. ##A.Hancharou@outlook.com , VK: https://vk.com/id74939067 , Skype: a.hancharou
+1. # Aliaksandr Hancharou
+1. ## A.Hancharou@outlook.com , VK: https://vk.com/id74939067 , Skype: a.hancharou
 1. I want to develop and learn programming. The development in the field of artificial intelligence is interesting. I love order and try to understand everything the first time
 1. HTML&CSS
 1. ```
